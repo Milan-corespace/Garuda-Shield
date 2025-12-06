@@ -1,0 +1,7 @@
+{
+  "name": "Garuda-Shield",
+  "description": "A human-centered ethical banking platform featuring transparent AI explanations, privacy controls, and secure consent management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
