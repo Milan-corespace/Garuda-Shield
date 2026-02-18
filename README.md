@@ -2,20 +2,20 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-#🛡️ Garuda-Shield
+# 🛡️ Garuda-Shield
 The Fortress of Trust – A Privacy-First Financial Defense Prototype
 
 Garuda-Shield is a conceptual prototype that addresses trust, transparency, and fraud risks in digital banking.
 It focuses on data-driven financial hygiene, explainable AI decisions, and inclusive access, designed for the Indian financial ecosystem.
 
-#🔍 Problem Statement
+# 🔍 Problem Statement
 Modern digital banking faces three major issues:
 - Lack of transparency in AI-driven transaction decisions
 - Silent financial leakage through recurring and forgotten subscriptions
 - High fraud vulnerability, especially for elderly and low-connectivity users
 Garuda-Shield explores how data analytics and ML-assisted logic can reduce these risks while preserving user privacy.
 
-#💡 Key Features (Prototype Level)
+# 💡 Key Features (Prototype Level)
 - Safe-to-Spend Analysis
   Separates committed expenses (subscriptions, bills) from actual disposable income.
 - Subscription & Pattern Detection
@@ -29,13 +29,13 @@ Garuda-Shield explores how data analytics and ML-assisted logic can reduce these
 - Human-in-the-Loop Corrections
   Allows users to correct AI misinterpretations to reduce bias and false alerts.
 
-#🔐 Privacy & Ethics
+# 🔐 Privacy & Ethics
 - Designed with Zero-Knowledge principles (no passive data collection)
 - User-controlled consent for all analytics features
 - Conceptually aligned with Reserve Bank of India digital finance guidelines
 - GDPR-ready architecture with explainability and auditability in mind
 
-#👨‍💻 My Role & Contribution
+# 👨‍💻 My Role & Contribution
 Role: Data Analytics & ML Contributor (2-member team)
 - Worked on transaction data analysis for spending patterns and recurring charge detection
 - Contributed to risk-flagging logic using time, device, and location-based signals
@@ -43,7 +43,7 @@ Role: Data Analytics & ML Contributor (2-member team)
 - Helped design explainable AI outputs for user-facing transparency
 - Actively involved in problem framing, feature ideation, and ethical AI discussions
 
-#🧠 Tech & Concepts Used
+# 🧠 Tech & Concepts Used
 - Python
 - Pandas
 - Data Analytics
@@ -53,11 +53,11 @@ Role: Data Analytics & ML Contributor (2-member team)
 - Explainable AI (XAI)
 - FinTech & Ethical AI Design
 
-#📌 Disclaimer
+# 📌 Disclaimer
 This project is a prototype / conceptual implementation built for learning, ideation, and demonstration purposes.
 It does not connect to real bank accounts or production financial systems.
 
-#🚀 Why This Project Matters
+# 🚀 Why This Project Matters
 Garuda-Shield explores how data + ML + transparency can rebuild user trust in digital finance — especially for vulnerable and underserved users.
 
 
